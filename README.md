@@ -1,1 +1,1 @@
-# quick-badge!
+# quick-badge
